@@ -10,4 +10,4 @@
 - 📊 **ML & AI:** Scikit-learn, TensorFlow  
 
 ## 📫 Connect with Me  
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/rashmi-bharti-a6731a120/)])  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rashmi-bharti-a6731a120/)  
