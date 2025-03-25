@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rashmi Bharti!  
 🔹 **Senior SDET @ Brillio Technology**  
 🔹 **Master's in AI & ML(In progress) | Liverpool John Moore University**  
-🔹 **Passionate about Automation, Accessibility Testing & AI**  
+🔹 **Passionate about Testing, Automation & AI**  
 
 ## 🛠️ Technologies & Tools
 - 🖥️ **Programming:** Java, Python  
